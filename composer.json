@@ -16,7 +16,11 @@
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
         "laravel/sail": "^1.0.1",
+<<<<<<< HEAD
         "laravel/ui": "3.4.5",
+=======
+        "laravel/ui": "3.0",
+>>>>>>> filling-layout-style2
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^5.10",
         "phpunit/phpunit": "^9.5.10"

@@ -11281,6 +11281,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+<<<<<<< HEAD
 body {
   font-size: 14px;
   font-weight: normal;
@@ -11290,6 +11291,8 @@ nav.navbar.navbar-expand-lg {
   margin-bottom: 20px;
 }
 
+=======
+>>>>>>> filling-layout-style2
 /* footer */
 footer {
   margin-top: 45px;

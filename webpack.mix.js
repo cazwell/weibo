@@ -1,5 +1,6 @@
 const mix = require('laravel-mix');
 
+<<<<<<< HEAD
 /*
  |--------------------------------------------------------------------------
  | Mix Asset Management
@@ -13,5 +14,7 @@ const mix = require('laravel-mix');
 
 const mix = require('laravel-mix');
 
+=======
+>>>>>>> filling-layout-style2
 mix.js('resources/js/app.js', 'public/js')
   .sass('resources/sass/app.scss', 'public/css').version();
